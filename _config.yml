@@ -1,0 +1,35 @@
+name: Pascual Consulting
+analytics: {}
+github: true
+description: 'Advising, Teaching & Coaching Services'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.8638530429452658
+color:
+  lightness: 0.8516226247538865
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  saturation: 0.8988802486329527
+  brandStrength: 0.7585852436624899
+  rhythmicContrast: 0.2124200559250126
+content_rating:
+  adult: false
+typography_spectrum: 0.3416490871459246
+opengraph: {}
+title: Pascual Consulting
