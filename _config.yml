@@ -1,5 +1,6 @@
 name: The Film Dream Initiative
-analytics: {}
+analytics:
+  google: UA-64070424-1
 github: true
 description: 'Discover. Connect. Collaborate. '
 author:
@@ -12,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.8638530429452658
 color:
