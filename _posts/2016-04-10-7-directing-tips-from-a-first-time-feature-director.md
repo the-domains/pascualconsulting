@@ -36,16 +36,15 @@ description: >-
   it comes time to deliver, you're never actually ready.
 inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://nofilmschool.com/2015/10/7-directing-tips-first-time-feature-director'
 title: 7 Directing Tips From A First Time Feature Director
-datePublished: '2018-05-20T01:32:38.968Z'
-dateModified: '2018-05-20T01:32:38.317Z'
+datePublished: '2018-05-20T01:33:22.009Z'
+dateModified: '2018-05-20T01:33:21.808Z'
 sourcePath: _posts/2016-04-10-7-directing-tips-from-a-first-time-feature-director.md
 via: {}
 inFeed: true
-hasPage: true
-datePublishedOriginal: '2018-05-20T01:32:38.968Z'
+datePublishedOriginal: '2018-05-20T01:33:22.009Z'
 starred: true
-url: 7-directing-tips-from-a-first-time-feature-director/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
