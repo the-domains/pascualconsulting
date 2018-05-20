@@ -33,20 +33,19 @@ keywords:
 description: ''
 inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://nofilmschool.com/2016/04/tribeca-mother-ema-interview-estonia-fargo'
 title: How 3 Women Made Estonia's 'Fargo' in 6 Weeks
-datePublished: '2018-05-20T01:32:46.383Z'
-dateModified: '2018-05-20T01:32:45.912Z'
+datePublished: '2018-05-20T01:33:18.026Z'
+dateModified: '2018-05-20T01:33:17.708Z'
 sourcePath: _posts/2016-04-20-how-3-women-made-estonias-fargo-in-6-weeks.md
 via: {}
 inFeed: true
-hasPage: true
-datePublishedOriginal: '2018-05-20T01:32:46.383Z'
+datePublishedOriginal: '2018-05-20T01:33:18.026Z'
 starred: true
-url: how-3-women-made-estonias-fargo-in-6-weeks/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/171a79a5982feeffe1f41210ac638b99895feb89.jpg" /><h1>How 3 Women Made Estonia's 'Fargo' in 6 Weeks</h1><p>Meet Fargo's European counterpart: Mother, a new crime thriller from Estonia. Directed by Kadri Kousaar , Mother exposes the vermin beneath the quaint veneer of life in a small town. It's a quietly thrilling whodunit that demonstrates mastery of nuanced character humor. Like Fargo, it deals in absurdity and lurches toward a grim twist.</p></article>
+<article style=""><h1>How 3 Women Made Estonia's 'Fargo' in 6 Weeks</h1><p>Meet Fargo's European counterpart: Mother, a new crime thriller from Estonia. Directed by Kadri Kousaar , Mother exposes the vermin beneath the quaint veneer of life in a small town. It's a quietly thrilling whodunit that demonstrates mastery of nuanced character humor. Like Fargo, it deals in absurdity and lurches toward a grim twist.</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/mother_web_1_0.jpg?itok=UgMY_rv_" /></article>
 
 How 3 Women Made Estonia's 'Fargo' in 6 Weeks
