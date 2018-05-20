@@ -7,7 +7,7 @@ related: []
 publisher:
   url: 'http://primer.com.ph'
   name: Blog
-  favicon: 'http://primer.com.ph/favicon.ico'
+  favicon: null
   domain: primer.com.ph
 keywords:
   - philippines
@@ -28,12 +28,12 @@ app_links: []
 isBasedOnUrl: >-
   http://primer.com.ph/blog/2017/01/02/mainstream-and-indie-the-philippines-film-industry/
 title: 'Mainstream and Indie: The Philippines'' Film Industry'
-datePublished: '2018-05-20T01:33:07.638Z'
-dateModified: '2018-05-20T01:33:06.950Z'
+datePublished: '2018-05-20T01:33:07.794Z'
+dateModified: '2018-05-20T01:33:07.216Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-28-mainstream-and-indie-the-philippines-film-industry.md
-datePublishedOriginal: '2018-05-20T01:33:07.638Z'
+datePublishedOriginal: '2018-05-20T01:33:07.794Z'
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
